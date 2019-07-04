@@ -1,0 +1,12 @@
+package]
+name = "simple-cargo-toml"
+version = "0.0.1"
+authors = ["Collin Peters <cpeters@sonatype.com>"]
+edition = "2018"
+license = "MIT/Apache-2.0"
+description = "Foo"
+repository = "https://github.com/collinpeters/simple-cargo-toml"
+readme = "README.md"
+
+[dependencies]
+fs-utils = "1.1.1"
